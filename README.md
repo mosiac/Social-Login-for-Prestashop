@@ -1,4 +1,4 @@
-Social-Login-for-Prestashop
+Social Login for Prestashop
 ===========================
 
 This Prestashop module adds social login on an Prestashop website letting users log in through their existing IDs such as Facebook, Twitter, Google, Yahoo and over 15 more! Other than social login, this plugin also provides User Profile Data and Social Analytics.
@@ -14,7 +14,7 @@ Social Login with over 20 ID providers
 
 Unlimited users*
 
-Store user profile data in your Drupal database
+Store user profile data in your Prestashop database
 
 Choose as many ID providers as you want
 
@@ -30,7 +30,7 @@ Download Social Login module
 
 Authors and Contributors
 ===
-Social Login module for Drupal is developed by LoginRadius ( http://www.LoginRadius.com). Please help us to improve it by reporting bugs and suggestions to hello@loginradius.com.
+Social Login module for Prestashop is developed by LoginRadius ( http://www.LoginRadius.com). Please help us to improve it by reporting bugs and suggestions to hello@loginradius.com.
 
 Support or Contact
 ===
