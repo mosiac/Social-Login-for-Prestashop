@@ -18,7 +18,7 @@ Store user profile data in your Prestashop database
 
 Choose as many ID providers as you want
 
-Manage plugin from Drupal admin account
+Manage plugin from Prestashop admin account
 
 Highly secure through REST API
 
