@@ -26,7 +26,7 @@ Get social analytics of your users
 
 Download link
 ===
-<a href="https://github.com/downloads/LoginRadius/Social-Login-for-Prestashop/sociallogin.zip"> Download Social Login module</a>
+<a href="https://github.com/downloads/LoginRadius/Social-Login-for-Prestashop/sociallogin-v1.1.zip"> Download Social Login module</a>
 
 Authors and Contributors
 ===
