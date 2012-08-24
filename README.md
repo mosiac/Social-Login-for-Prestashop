@@ -10,6 +10,10 @@ Demo website
 
 <a href="http://prestashop.loginradius.com" target="_blank">Social Login for Prestashop</a>
 
+Download link
+===
+<a href="https://github.com/downloads/LoginRadius/Social-Login-for-Prestashop/sociallogin%20v1.1.zip"> Download Social Login module</a>
+
 Plugin key features
 ===
 Social Login with over 20 ID providers
@@ -23,10 +27,6 @@ Manage plugin from Prestashop admin account
 Highly secure through REST API
 
 Get social analytics of your users
-
-Download link
-===
-<a href="https://github.com/downloads/LoginRadius/Social-Login-for-Prestashop/sociallogin-v1.1.zip"> Download Social Login module</a>
 
 Authors and Contributors
 ===
