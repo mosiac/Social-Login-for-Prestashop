@@ -12,7 +12,7 @@ Demo website
 
 Download link
 ===
-<a href="https://github.com/downloads/LoginRadius/Social-Login-for-Prestashop/sociallogin%20v1.1.zip"> Download Social Login module</a>
+<a href="https://github.com/downloads/LoginRadius/Social-Login-for-Prestashop/sociallogin-v1.2.zip"> Download Social Login module</a>
 
 Plugin key features
 ===
